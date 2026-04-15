@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jerry Zhao
 
-<!--
-**JerryZhaoYJ/JerryZhaoYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MS in Applied Data Science student at the University of Chicago, with interests in machine learning, business analytics, finance, consulting, and data-driven decision-making.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MS Applied Data Science @ University of Chicago
+- Background in mathematical statistics and finance
+- Experience across finance, consulting, telecommunications, and business analytics
+- Interested in applying Python, SQL, machine learning, and visualization to real-world business problems
+
+## Technical Skills
+
+- Programming: Python, R, Java, SQL
+- Data Analysis: pandas, Jupyter Notebook, RStudio, Excel
+- Databases: MySQL, Azure SQL Database, IBM Db2, Amazon RDS
+- Visualization: Power BI, Tableau, QuickSight, Excel VBA
+
+## Featured Project
+
+- Federalist Papers Authorship Text Analysis
