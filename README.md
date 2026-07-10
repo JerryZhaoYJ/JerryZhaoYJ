@@ -1,38 +1,43 @@
 # Hi, I'm Jerry Zhao
 
-I am an MS in Applied Data Science student at the University of Chicago, with interests in machine learning, business analytics, finance, consulting, and data-driven decision-making.
+I'm an M.S. Applied Data Science candidate at the University of Chicago, graduating in December 2026. I build AI-enabled data products across tool-using AI systems, multimodal machine learning, NLP, and analytics engineering.
 
-## About Me
+I turn messy data and ambiguous business questions into traceable pipelines, evaluated models, and decision-ready tools. My experience spans consulting, banking, telecommunications, and sponsor-facing data science.
 
-- MS Applied Data Science @ University of Chicago
-- Background in mathematical statistics and finance
-- Experience across finance, consulting, telecommunications, and business analytics
-- Interested in applying Python, SQL, machine learning, and visualization to real-world business problems
+- **Education:** M.S. Applied Data Science, University of Chicago; B.S. Mathematical Statistics & Finance, Wake Forest University; Computer Science minor
+- **Current focus:** AI agents, LLM/VLM workflows, multimodal ML, NLP, retrieval, and human-in-the-loop evaluation
+- **Career:** Seeking full-time applied data science, AI/ML, and analytics engineering roles after December 2026
 
-## Technical Skills
+## Technical Toolkit
 
-**Languages:** Python, R, SQL, Java  
-
-**Machine Learning:** classification, logistic regression, linear SVM, Naive Bayes, KNN, decision trees, random forests, clustering, model evaluation, error analysis  
-
-**NLP & Text Analytics:** tokenization, stop-word removal, TF-IDF, LDA topic modeling, word-frequency analysis, sentiment features, text classification, authorship analysis, document classification  
-
-**Data & Databases:** pandas, NumPy, tidyverse, MySQL, Azure SQL Database, IBM Db2, Amazon RDS  
-
-**Visualization & BI:** matplotlib, ggplot2, Power BI, Tableau, Amazon QuickSight, Excel VBA  
-
-**Workflow:** Jupyter Notebook, R Markdown, GitHub, reproducible project structure, README documentation  
+- **Programming & data:** Python, SQL, R, Java, pandas, NumPy, scikit-learn, Jupyter
+- **AI systems:** tool-using agents, Claude, Gemini/VLM workflows, DeepSeek-assisted annotation, prompt/schema design, retrieval workflows, human-in-the-loop review
+- **ML & NLP:** TF-IDF, NMF, Logistic Regression, DistilBERT, ResNet18, CLIP, multimodal fusion, clustering, model evaluation, and error analysis
+- **Data systems & cloud:** MySQL, Azure SQL Database, Amazon RDS, Alibaba Cloud ApsaraDB, API integration, JSON/Excel pipelines
+- **Product & analytics:** Streamlit, Power BI, Tableau, Quick BI, GitHub
 
 ## Featured Projects
 
-### [Research Article Subject Tagging](https://github.com/JerryZhaoYJ/research-article-subject-tagging)
-Multi-class NLP project for automatically tagging research articles by subject using title and abstract text.
+### [HERE Places Resolution Agent](https://github.com/JerryZhaoYJ/here-places-resolution-agent-case-study)
+*UChicago MSADS Capstone with HERE Technologies · AI Agent POC, Sponsor Demo & Technical Handoff*
 
-### [Spotify Song Clustering Recommender](https://github.com/JerryZhaoYJ/spotify-song-clustering-recommender)
-Large-scale unsupervised learning project using Spotify audio features and lyrics to discover latent song clusters and support content-based recommendation.
+Within a four-person capstone team, I developed and iterated the runnable local Python/Claude POC and led its sponsor demo and technical handoff. The read-only agent turns POI tickets into source-cited Excel/JSON review packages using live web research, OSM geocoding, TF-IDF taxonomy retrieval, confidence controls, and human-review routing.
 
-### [Essay Topic Modeling & Authorship Detection](https://github.com/JerryZhaoYJ/essay-topic-modeling-authorship-detection)
-R-based text analytics project using LDA topic modeling, pairwise word correlations, and logistic regression to explore essay prompts and AI-versus-human authorship patterns.
+### [Meme Sommelier — Multimodal Humor Intelligence](https://github.com/Meme-Sommelier/meme-sommelier-agent) · [Live Demo](https://meme-sommelier-agent.streamlit.app)
 
-### [E-Commerce Recommendation Engine Modeling](https://github.com/JerryZhaoYJ/ecommerce-recommendation-engine-modeling)
-Customer analytics project comparing logistic regression, KNN, decision trees, bagging, and random forests for e-commerce recommendation decisions.
+Led a four-person project on 6,992 Memotion 7K memes. I built the Gemini/VLM H-layer and 3,183-row extraction pipeline, ran its supervised and unsupervised diagnostics, and created the Streamlit workbench for humor mechanisms, audience fit, landing risk, and revision guidance. The H-layer did not materially improve four-class macro-F1; it turned a noisy prediction task into an interpretable product.
+
+### [AI Impact Across Industries, Companies & Workflows](https://github.com/JerryZhaoYJ/ai-impact-news-intelligence)
+
+Designed and implemented an end-to-end pipeline over 200,469 AI/ML news articles with crawl-aware cleaning, relevance classification, curated NMF topics, calibrated entity extraction, and target-specific sentiment. The final sentiment model reached 0.682 macro-F1, and the analysis mapped opportunity, risk, and adoption mechanisms across 20 industries.
+
+## Additional Projects
+
+- [Spotify Music Clustering & Recommendation](https://github.com/JerryZhaoYJ/spotify-music-clustering-recommender) — Unsupervised discovery across 955K tracks using audio features, lyrics, MiniBatchKMeans, DBSCAN, Ward clustering, and nearest-neighbor retrieval.
+- [Research Article Subject Tagging](https://github.com/JerryZhaoYJ/research-article-subject-tagging) — Leakage-safe five-class NLP pipeline over 38,686 articles, reaching 0.748 macro precision with Linear SVM.
+- [E-Commerce Recommendation Decision Modeling](https://github.com/JerryZhaoYJ/ecommerce-recommendation-engine-modeling) — R-based comparison of logistic regression, KNN, decision trees, bagging, and random forests.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yunjie-zhao-831582229/)
+- [Email](mailto:jerryzhaoyunjie@gmail.com)
