@@ -11,7 +11,7 @@ I turn messy data and ambiguous business questions into traceable pipelines, eva
 ## Technical Toolkit
 
 - **Programming & data:** Python, SQL, R, Java, pandas, NumPy, scikit-learn, Jupyter
-- **AI systems:** tool-using agents, Claude, Gemini/VLM workflows, DeepSeek-assisted annotation, prompt/schema design, retrieval workflows, human-in-the-loop review, Claude Coding, OpenAI Codex
+- **AI systems:** tool-using agents, Claude, Gemini/VLM workflows, DeepSeek-assisted annotation, prompt/schema design, retrieval workflows, human-in-the-loop review, Claude Code, OpenAI Codex
 - **ML & NLP:** TF-IDF, NMF, Logistic Regression, DistilBERT, ResNet18, CLIP, multimodal fusion, clustering, model evaluation, and error analysis
 - **Data systems & cloud:** MySQL, Azure SQL Database, Amazon RDS, Alibaba Cloud ApsaraDB, API integration, JSON/Excel pipelines
 - **Product & analytics:** Streamlit, Power BI, Tableau, Quick BI, GitHub
